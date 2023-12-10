@@ -1,0 +1,17 @@
+{
+    "manifest_version": 2,
+    "name": "Sparx Skipper",
+    "version": "1.0",
+
+    "description": "Skips sparx questions when you click the icon",
+
+    "icons": {
+        "48": "icons/border-48.png"
+    },
+
+    "background": {
+        "scripts": ["background.js"],
+        "persistent": false
+    },
+    "permissions": ["activetab"]
+}
