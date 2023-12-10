@@ -13,5 +13,5 @@
         "scripts": ["background.js"],
         "persistent": false
     },
-    "permissions": ["activetab"]
+    "permissions": ["activeTab"]
 }
